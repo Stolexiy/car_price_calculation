@@ -1,0 +1,9 @@
+name: Car price calculation
+type: module
+description: 'Provides a car price calculation entity.'
+package: Custom
+core: 8.x
+configure: car_price_calculation.settings
+
+dependencies:
+  - drupal:options

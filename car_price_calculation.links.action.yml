@@ -1,0 +1,5 @@
+car_price_calculation.add_form:
+  route_name: entity.car_price_calculation.add_form
+  title: 'Add car price calculation'
+  appears_on:
+    - entity.car_price_calculation.collection

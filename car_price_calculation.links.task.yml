@@ -1,0 +1,9 @@
+car_price_calculation.settings:
+  title: Settings
+  route_name: car_price_calculation.settings
+  base_route: car_price_calculation.settings
+entity.car_price_calculation.collection:
+  title: Car price calculation
+  route_name: entity.car_price_calculation.collection
+  base_route: system.admin_content
+  weight: 10

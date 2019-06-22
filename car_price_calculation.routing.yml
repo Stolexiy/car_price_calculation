@@ -1,0 +1,7 @@
+car_price_calculation.settings:
+  path: 'admin/config/car-price-calculation'
+  defaults:
+    _form: '\Drupal\car_price_calculation\Form\CarPriceCalculationSettingsForm'
+    _title: 'Car price calculation'
+  requirements:
+    _permission: 'administer car price calculation'

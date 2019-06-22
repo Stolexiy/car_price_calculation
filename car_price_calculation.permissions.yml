@@ -1,0 +1,9 @@
+administer car price calculation:
+  title: 'Administer car price calculation settings'
+  restrict access: true
+add car price calculation entity:
+  title: 'Add Car price calculation entity'
+edit car price calculation entity:
+  title: 'Edit Car price calculation entity'
+delete car price calculation entity:
+  title: 'Delete Car price calculation entity'

@@ -1,0 +1,4 @@
+services:
+  car_total_price_calculator:
+    class: Drupal\car_price_calculation\CarTotalPriceCalculator
+    arguments: ['@config.factory']

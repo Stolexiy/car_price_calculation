@@ -1,0 +1,14 @@
+system.admin_config_car_price_calculation:
+  title: 'Car price calculation'
+  route_name: car_price_calculation.settings
+  parent: system.admin_config
+car_price_calculation.settings:
+  title: Price
+  description: Configure fixed and variable price.
+  route_name:  car_price_calculation.settings
+  parent: system.admin_config_car_price_calculation
+entity.car_price_calculation.collection:
+  title: Car price calculations
+  description: List of car price calculations
+  route_name: entity.car_price_calculation.collection
+  parent: system.admin_content
